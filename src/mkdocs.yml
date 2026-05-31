@@ -1,0 +1,7 @@
+site_name: Lab 3 CI/CD
+
+theme:
+  name: material
+
+nav:
+  - Главная: index.md
